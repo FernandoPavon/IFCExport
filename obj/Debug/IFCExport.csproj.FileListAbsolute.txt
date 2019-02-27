@@ -1,0 +1,10 @@
+C:\My_IFCExport\IFCExport\IFCExport\bin\Debug\IFCExport.dll
+C:\My_IFCExport\IFCExport\IFCExport\bin\Debug\IFCExport.pdb
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.csprojAssemblyReference.cache
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.g.resources
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.Properties.Resources.resources
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.csproj.GenerateResource.cache
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.csproj.CoreCompileInputs.cache
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.dll
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.pdb
+C:\My_IFCExport\IFCExport\IFCExport\obj\Debug\IFCExport.IFCExportForm.resources

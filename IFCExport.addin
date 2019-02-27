@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  
+  <AddIn Type="Application">
+    <Name>IFC Export</Name>
+    <Assembly>IFCExport.dll</Assembly>
+    <FullClassName>IFCExport.App</FullClassName>
+    <ClientId>F1A2B6E8-FE40-4C8E-8310-39B52FD6B6F4</ClientId>
+    <VendorId>com.autodesk</VendorId>
+    <VendorDescription>Autodesk Customer Success Organization</VendorDescription>
+  </AddIn>
+  
+</RevitAddIns>
+
